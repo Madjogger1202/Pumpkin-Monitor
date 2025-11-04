@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ENS160-BGLT")(type "KiCad")(uri "${KIPRJMOD}/Library/ENS160-BGLT.kicad_sym")(options "")(descr ""))
+  (lib (name "AHT21")(type "KiCad")(uri "${KIPRJMOD}/Library/AHT21.kicad_sym")(options "")(descr ""))
+)
