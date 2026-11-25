@@ -14,7 +14,7 @@
 ## Overview
 
 Pumpkin-Monitor plugs straight into a USB-A port and works as a small Wi-Fi air-quality station.  
-The ESP8266 is used as a **bare chip** (not a module): crystal, SPI flash, RF matching and an inverted-F PCB antenna are all on the board — the antenna lives in the pumpkin "stem".
+The ESP8266 is used as a **bare chip** (not a module): crystal, SPI flash, RF matching and an inverted-F PCB antenna are all on the board — the antenna sits at the "stem" side of the pumpkin.
 
 ---
 
